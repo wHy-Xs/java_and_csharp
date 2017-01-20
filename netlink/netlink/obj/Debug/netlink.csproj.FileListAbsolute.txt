@@ -1,0 +1,7 @@
+D:\vscoding\netlink\netlink\bin\Debug\netlink.exe.config
+D:\vscoding\netlink\netlink\bin\Debug\netlink.exe
+D:\vscoding\netlink\netlink\bin\Debug\netlink.pdb
+D:\vscoding\netlink\netlink\bin\Debug\Wolfram.NETLink.dll
+D:\vscoding\netlink\netlink\obj\Debug\netlink.exe
+D:\vscoding\netlink\netlink\obj\Debug\netlink.pdb
+D:\vscoding\netlink\netlink\obj\Debug\netlink.csprojResolveAssemblyReference.cache
